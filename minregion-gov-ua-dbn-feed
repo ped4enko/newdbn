@@ -12,11 +12,11 @@
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
 	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Mon, 19 Nov 2018 15:34:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jan 2019 16:08:54 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.3.17</generator>
+	<generator>https://wordpress.org/?v=4.3.18</generator>
 	<item>
 		<title>Державні та галузеві будівельні норми</title>
 		<link>http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/derzhavni-ta-galuzevi-budivelni-normi-2/</link>
@@ -86,7 +86,7 @@
 <td width="255">Чинні з 01.10.2014 р.</p>
 <p>На заміну ДБН А.2.2-3:2012</p>
 <p>ДП «НДІБВ»</p>
-<p>Чинна з 01.06.2018</td>
+<p>Зміна № 1 чинна з 01.06.2018</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/04/DBN-A.2.2-14-2016.pdf" target="_blank">ДБН А.2.2-14-2016</a></td>
@@ -161,7 +161,7 @@
 <td width="255">Чинні з 1.10.2012</p>
 <p>На заміну ДСТУ-Н Б Б.1.1-8:2009</p>
 <p>ДП «Діпромісто» імені Ю.М.Білоконя</p>
-<p>Зміна чинна з 01.05.2018</p>
+<p>Зміна № 1 чинна з 01.05.2018</p>
 <p>ДП «НДПІ містобудування»</td>
 </tr>
 <tr>
@@ -381,19 +381,6 @@
 <p>«НДІБВ»</td>
 </tr>
 <tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/04/DBN-V.1.2-14-2009.pdf" target="_blank">ДБН В.1.2-14-2009</a></p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/47.2.-DBN-V.1.2-14-2009.-Zmina-N-1.-SNBB.-Zagalni-prints.pdf" target="_blank">Зміна № 1</a></td>
-<td width="227">Загальні принципи забезпечення надійності та конструктивної безпеки будівель, споруд, будівельних конструкцій та основ.</td>
-<td width="255">Чинні з 01.10.2009 р.</p>
-<p>На заміну<br />
-ГОСТ 27751 (СТ СЭВ 384-87), СТ СЭВ 3972-83,<br />
-СТ СЭВ 3973-83,<br />
-СТ СЭВ 4417-83,<br />
-СТ СЭВ 4868-84</p>
-<p>Зміна № 1чинна з 01.04.2012 р.</p>
-<p>ВАТ «УКРНДІПРОЕКТСТАЛЬКОНСТРУКЦІЯ ім. В.М.Шимановського»</td>
-</tr>
-<tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/10/V1214-2018.pdf" target="_blank">ДБН В.1.2-14:2018</a></td>
 <td width="227">Система забезпечення надійності та безпеки будівельних об&#8217;єктів. Загальні принципи забезпечення надійності та конструктивної безпеки будівель і споруд</td>
 <td width="255">Чинні з 01.01.2019 р.</p>
@@ -417,21 +404,7 @@
 <td width="255">Чинний з 01.09.2010 р.</p>
 <p>На заміну СНиП 3.01.03-84</p>
 <p>«НДІБВ»</p>
-<p>Чинна з 01.06.2018</td>
-</tr>
-<tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/03/DBN-V.2.1-10-2009.pdf" target="_blank">ДБН В.2.1-10-2009</a></p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/03/Zmina-1-DBN-V.2.1-10-2009.pdf" target="_blank">Зміна № 1</a></p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/04/Zmina-----2-do-DBN-V.2.1-10-2009.pdf" target="_blank">Зміна № 2</a></td>
-<td width="227">Основи та фундаменти будинків і споруд. Основні положення проектування.</td>
-<td width="255">Чинні з 01.07.2009 р.</p>
-<p>Не застосовується<br />
-СНиП 2.02.01-83</p>
-<p>Зміна № 1<br />
-чинна з 01.07.2011 р.</p>
-<p>Зміна № 2<br />
-чинна з 01.07.2012 р.</p>
-<p>ДП«НДІБК»</td>
+<p>Зміна № 1 чинна з 01.06.2018</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/10/2110-2018.pdf" target="_blank">ДБН В.2.1-10:2018</a></td>
@@ -603,7 +576,8 @@
 <p><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/67.2.-DBN-V.2.2-182007.-Zmina-N1.-Zakladi-sotsialnogo-z.pdf" target="_blank">Зміна № 1</a></td>
 <td width="227">Будинки і споруди. Заклади соціального захисту населення.</td>
 <td width="255">Чинні з 01.07.2007 р.</p>
-<p>Введено вперше Зміна № 1<br />
+<p>Введено вперше</p>
+<p>Зміна № 1<br />
 чинна з 01.07.2012 р.</p>
 <p>ВАТ «КиївЗНДІЕП»</td>
 </tr>
@@ -659,6 +633,13 @@
 <td width="227">Будинки адміністративного та побутового призначення.</td>
 <td width="255">Чинні з 01.10.2011 р.</p>
 <p>На заміну СНиП 2.09.04-87</p>
+<p>ПАТ «КиївЗНДІЕП»</td>
+</tr>
+<tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/01/V2240-2018.pdf" target="_blank">ДБН В.2.2-40:2018</a></td>
+<td width="227">Інклюзивність будівель і споруд. Основні положення</td>
+<td width="255">Чинні з 01.04.2019</p>
+<p>На заміну ДБН В.2.2-17:2006</p>
 <p>ПАТ «КиївЗНДІЕП»</td>
 </tr>
 <tr>
@@ -726,7 +707,7 @@
 <p>Зміна №2</p>
 <p>Чинна з 01.11.2016 р</p>
 <p>Наказ від 11 травня 2016 р. № 122</p>
-<p>“Київдіпротранс”</td>
+<p>ДП &#171;Київдіпротранс&#187;</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/81.1.-DBN-V.2.3-19-2008.-Sporudi-transportu.-Zaliznitsi-k.pdf" target="_blank">ДБН В.2.3-19-2008</a></td>
@@ -734,6 +715,13 @@
 <td width="255">Чинні з 01.08.2008 р.</p>
 <p>На заміну СНиП II-39-76</p>
 <p>ДП «Київдіпротранс»</td>
+</tr>
+<tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/01/V2319.pdf" target="_blank">ДБН В.2.3-19-2018</a></td>
+<td width="227">Залізниці колії 1520 мм. Норми проектування.</td>
+<td width="255">Чинні з 29.03.2019 р.</p>
+<p>На заміну ДБН В.2.3-19-2008</p>
+<p>&#171;УкрДУЗТ&#187;</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/82.1.-DBN-V.2.3-222009.-Sporudi-transportu.-Mosti-ta-tr.pdf" target="_blank">ДБН В.2.3-22-2009</a></td>
@@ -851,6 +839,13 @@
 <p>ТОВ «КИЇВПРОМЕЛЕКТРОПРОЕКТ»</td>
 </tr>
 <tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/12/V2528-1.pdf" target="_blank">ДБН В.2.5-28:2018</a></td>
+<td width="227">Природне і штучне освітлення.</td>
+<td width="255">Чинні з 28.02.2019 р.</p>
+<p>На заміну ДБН В.2.5-28-2006</p>
+<p>ТОВ «КИЇВПРОМЕЛЕКТРОПРОЕКТ»</td>
+</tr>
+<tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/96.1.-DBN-V.2.5-392008.-Inzhenerne-obladnannya-budinkiv-i.pdf" target="_blank">ДБН В.2.5-39-2008</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -859,7 +854,7 @@
 <td width="255">Чинні з 01.07.2009 р.</p>
 <p>На заміну СНиП 2.04.07-86</p>
 <p>ВАТ «УкрНДІінжпроект»</p>
-<p>Чинна з 01.07.2018</td>
+<p>Зміна № 1 чинна з 01.07.2018</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/97.1.-DBN-V.2.5-412009.-Inzhenerne-obladnannya-budinkiv-i.pdf" target="_blank">ДБН В.2.5-41-2009</a></td>
@@ -876,11 +871,15 @@
 <p>ВГО &#171;Український союз пожежної та техногенної безпеки&#187;</td>
 </tr>
 <tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/99.1.-DBN-V.2.5-642012.-Vnutrishniy-vodoprovid-ta-kanali.pdf" target="_blank">ДБН В.2.5-64-2012</a></td>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/99.1.-DBN-V.2.5-642012.-Vnutrishniy-vodoprovid-ta-kanali.pdf" target="_blank">ДБН В.2.5-64-2012</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/12/ZM_DBN_V2564.pdf" target="_blank">Зміна № 1</a></td>
 <td width="227">Внутрішній водопровід та каналізація.Частина І. Проектування. Частина ІІ. Будівництво.</td>
 <td width="255">Чинні з 01.03.2013 р.</p>
 <p>На заміну СНиП 2.04.01−85, СНиП 3.05.01−85</p>
-<p>ДП «Міськбудпроект»</td>
+<p>ДП «Міськбудпроект»</p>
+<p>Зміна № 1 чинна з 28.02.2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/100.1.-DBN-V.2.5-672013.-Opalennya-ventilyatsiya-ta-konditsi.pdf" target="_blank">ДБН В.2.5-67:2013</a></td>
@@ -897,7 +896,7 @@
 <td width="255">Чинні з 01.01.2014</p>
 <p>На заміну СНиП 2.04.03-85</p>
 <p>ДП «Український державний науково-дослідний і проектно-вишукувальний інститут «УкрНДІводоканалпроект»</p>
-<p>Зміна чинна з 29.01.2019</td>
+<p>Зміна № 1 чинна з 29.01.2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/102.1.-DBN-V.2.5-752013.-Kanalizatsiya.-Zovnishni-merezhi-ta.pdf" target="_blank">ДБН В.2.5-75:2013</a></p>
@@ -907,7 +906,7 @@
 <td width="255">Чинні з 01.01.2014</p>
 <p>На заміну СНиП 2.04.03-85</p>
 <p>ДП «Український державний науково-дослідний і проектно-вишукувальний інститут «УкрНДІводоканалпроект»</p>
-<p>Зміна чинна з 29.01.2019</td>
+<p>Зміна № 1 чинна з 29.01.2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/103.1.-DBN-V.2.5-762014.-Avtomatizovani-sistemi-rannogo.pdf" target="_blank">ДБН В.2.5-76:2014</a></td>
@@ -924,21 +923,14 @@
 <p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/04/ZM_DBN_V2577.pdf" target="_blank">Зміна № 1</a></td>
 <td width="227">Котельні</td>
 <td width="255">Чинні з 01.01.2015</p>
-<p>ПАТ &#171;Прроектний та науково-дослідний інститут по газопостачанню, теплопостачанню та комплексному благоустрою міст і селищ України&#187;</p>
-<p>Чинна з 01.07.2018</td>
+<p>ПАТ &#171;Проектний та науково-дослідний інститут по газопостачанню, теплопостачанню та комплексному благоустрою міст і селищ України&#187;</p>
+<p>Зміна № 1 чинна з 01.07.2018</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/02/DBN-V.2.6-31-2016-Teplova-izolyatsiya-budivel.pdf">ДБН В.2.6-31:2016</a></td>
 <td width="227">Теплова ізоляція будівель.</td>
 <td width="255">Чинні з 01.05.2017 р.</p>
 <p>На заміну ДБН В.2.6-31-2006</p>
-<p>ДП «НДІБК»</td>
-</tr>
-<tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/03/DBN-V-.2.6-33-2008.pdf" target="_blank">ДБН В.2.6-33-2008</a></td>
-<td width="227">Конструкції зовнішніх стін із фасадною теплоізоляцією. Вимоги до проектування, улаштування та експлуатації.</td>
-<td width="255">Чинні з 01.07.2009 р.</p>
-<p>Введено вперше</p>
 <p>ДП «НДІБК»</td>
 </tr>
 <tr>
