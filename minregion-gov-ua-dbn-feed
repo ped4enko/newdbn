@@ -12,11 +12,11 @@
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
 	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Thu, 14 Feb 2019 15:46:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2019 13:32:54 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.3.18</generator>
+	<generator>https://wordpress.org/?v=4.3.19</generator>
 	<item>
 		<title>Державні та галузеві будівельні норми</title>
 		<link>http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/derzhavni-ta-galuzevi-budivelni-normi-2/</link>
@@ -826,19 +826,6 @@
 <td width="227">Електрична кабельна система опалення.</td>
 <td width="255">Чинні з 01.10.2012 р.</p>
 <p>На заміну ДБН В.2.5-24-2003</p>
-<p>ТОВ «КИЇВПРОМЕЛЕКТРОПРОЕКТ»</td>
-</tr>
-<tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/95.1.-DBN-V.2.5-28-2006.-Prirodne-i-shtuchne-osvitlennya.pdf" target="_blank">ДБН В.2.5-28-2006, </a></p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/95.2.-DBN-V.2.5-28-2006.-Zmina-N1.-Prirodne-i-shtuchne-osv.pdf" target="_blank"> Зміна № 1</a></p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/95.3.-DBN-V.2.5-28-2006.-Zmina-N2.-Prirodne-i-shtuchne-osv.pdf" target="_blank">Зміна № 2</a></td>
-<td width="227">Природне і штучне освітлення.</td>
-<td width="255">Чинні з 01.10.2006 р.</p>
-<p>На заміну СНиП ІІ-4-79</p>
-<p>Зміна №1<br />
-чинна з 01.10.2008 р.</p>
-<p>Зміна №2<br />
-чинна з 01.09.2012 р.</p>
 <p>ТОВ «КИЇВПРОМЕЛЕКТРОПРОЕКТ»</td>
 </tr>
 <tr>
