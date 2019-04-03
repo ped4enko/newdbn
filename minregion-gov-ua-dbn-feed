@@ -12,7 +12,7 @@
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
 	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Tue, 02 Apr 2019 10:10:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Apr 2019 06:16:03 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -87,7 +87,8 @@
 <td width="255">Чинні з 01.10.2014 р.</p>
 <p>На заміну ДБН А.2.2-3:2012</p>
 <p>ДП «НДІБВ»</p>
-<p>Зміна № 1 чинна з 01.06.2018</td>
+<p>Зміна № 1 чинна з 01.06.2018</p>
+<p>Виправлення до Зміни № 1, Інформаційний бюлетень № 5, 2018</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/04/DBN-A.2.2-14-2016.pdf" target="_blank">ДБН А.2.2-14-2016</a></td>
@@ -500,7 +501,7 @@
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/03/V229-2018.pdf" target="_blank">ДБН В.2.2-9:2018</a></td>
 <td width="227">Громадські будинки та споруди. Основні положення.</td>
-<td width="255">Чинні з 29.05.2019 р.</p>
+<td width="255">Чинні з 01.06.2019 р.</p>
 <p>На заміну ДБН В.2.2-9:2009</p>
 <p>ДП &#171;УкрНДПІцивільбуд&#187;</td>
 </tr>
@@ -573,13 +574,6 @@
 <p>На заміну ВСН 45-86</p>
 <p>Зміна № 1</p>
 <p>чинна з 01.07.2009 р.</p>
-<p>ВАТ «КиївЗНДІЕП»</td>
-</tr>
-<tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/04/DBN-V.2.2-17-2006.pdf" target="_blank">ДБН В.2.2-17-2006</a></td>
-<td width="227">Доступність будинків і споруд для маломобільних груп населення.</td>
-<td width="255">Чинні з 01.05.2007 р.</p>
-<p>На заміну ВСН 62-91</p>
 <p>ВАТ «КиївЗНДІЕП»</td>
 </tr>
 <tr>
@@ -721,19 +715,13 @@
 <p>ДП &#171;Київдіпротранс&#187;</td>
 </tr>
 <tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/81.1.-DBN-V.2.3-19-2008.-Sporudi-transportu.-Zaliznitsi-k.pdf" target="_blank">ДБН В.2.3-19:2008</a></p>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/01/V2319.pdf" target="_blank">ДБН В.2.3-19-2018</a></p>
 <p><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/03/popravka-do-dbn-v23192018.pdf" target="_blank">Поправка</a></td>
 <td width="227">Залізниці колії 1520 мм. Норми проектування.</td>
-<td width="255">Чинні з 01.08.2008 р.</p>
-<p>На заміну СНиП II-39-76</p>
-<p>ДП «Київдіпротранс»</td>
-</tr>
-<tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/01/V2319.pdf" target="_blank">ДБН В.2.3-19-2018</a></td>
-<td width="227">Залізниці колії 1520 мм. Норми проектування.</td>
-<td width="255">Чинні з 29.03.2019 р.</p>
+<td width="255">Чинні з 01.04.2019 р.</p>
 <p>На заміну ДБН В.2.3-19-2008</p>
-<p>&#171;УкрДУЗТ&#187;</td>
+<p>&#171;УкрДУЗТ&#187;</p>
+<p>Поправка, Інформаційний бюлетень  № 2, 2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/82.1.-DBN-V.2.3-222009.-Sporudi-transportu.-Mosti-ta-tr.pdf" target="_blank">ДБН В.2.3-22-2009</a></td>
@@ -840,7 +828,7 @@
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/12/V2528-1.pdf" target="_blank">ДБН В.2.5-28:2018</a></td>
 <td width="227">Природне і штучне освітлення.</td>
-<td width="255">Чинні з 28.02.2019 р.</p>
+<td width="255">Чинні з 01.03.2019 р.</p>
 <p>На заміну ДБН В.2.5-28-2006</p>
 <p>ТОВ «КИЇВПРОМЕЛЕКТРОПРОЕКТ»</td>
 </tr>
@@ -874,12 +862,13 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/12/ZM_DBN_V2564.pdf" target="_blank">Зміна № 1</a></p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/03/Vipravlennya-do-zmini----1-dbn-v25642012.pdf" target="_blank">Виправлення</a></td>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/03/Vipravlennya-do-zmini----1-dbn-v25642012.pdf" target="_blank">Виправлення до Зміни №1</a></td>
 <td width="227">Внутрішній водопровід та каналізація.Частина І. Проектування. Частина ІІ. Будівництво.</td>
 <td width="255">Чинні з 01.03.2013 р.</p>
 <p>На заміну СНиП 2.04.01−85, СНиП 3.05.01−85</p>
 <p>ДП «Міськбудпроект»</p>
-<p>Зміна № 1 чинна з 28.02.2019</td>
+<p>Зміна № 1 чинна з 01.03.2019</p>
+<p>Виправлення до Зміни № 1, Інформаційний бюлетень № 12, 2018</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/100.1.-DBN-V.2.5-672013.-Opalennya-ventilyatsiya-ta-konditsi.pdf" target="_blank">ДБН В.2.5-67:2013</a></td>
@@ -896,7 +885,7 @@
 <td width="255">Чинні з 01.01.2014</p>
 <p>На заміну СНиП 2.04.03-85</p>
 <p>ДП «Український державний науково-дослідний і проектно-вишукувальний інститут «УкрНДІводоканалпроект»</p>
-<p>Зміна № 1 чинна з 29.01.2019</td>
+<p>Зміна № 1 чинна з 01.02.2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/102.1.-DBN-V.2.5-752013.-Kanalizatsiya.-Zovnishni-merezhi-ta.pdf" target="_blank">ДБН В.2.5-75:2013</a></p>
@@ -906,7 +895,7 @@
 <td width="255">Чинні з 01.01.2014</p>
 <p>На заміну СНиП 2.04.03-85</p>
 <p>ДП «Український державний науково-дослідний і проектно-вишукувальний інститут «УкрНДІводоканалпроект»</p>
-<p>Зміна № 1 чинна з 29.01.2019</td>
+<p>Зміна № 1 чинна з 01.02.2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/103.1.-DBN-V.2.5-762014.-Avtomatizovani-sistemi-rannogo.pdf" target="_blank">ДБН В.2.5-76:2014</a></td>
