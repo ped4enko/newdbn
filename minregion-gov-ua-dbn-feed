@@ -12,7 +12,7 @@
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
 	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Thu, 04 Apr 2019 11:33:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Apr 2019 07:50:13 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -689,12 +689,15 @@
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/79.1.-DBN-V.2.3-152007.-Sporudi-transportu.-Avtostoyanki.pdf" target="_blank">ДБН В.2.3-15-2007</a></p>
 <p>&nbsp;</p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/06/ZM_DBN_V2315.pdf" target="_blank">Зміна № 1</a></td>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/06/ZM_DBN_V2315.pdf" target="_blank">Зміна № 1</a></p>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/04/ZM_DBN_V2315.pdf" target="_blank">Зміна № 2</a></td>
 <td width="227">Автостоянки і гаражі для легкових автомобілів.</td>
 <td width="255">Чинні з 01.08.2007 р.</p>
 <p>На заміну ВСН 01-89 в частині легкових автомобілів та Додатку Є ДБН В.2.2-9-99</p>
 <p>Студія неординарного проектування Міжнародної академії архітектури</p>
 <p>Зміна № 1 чинна з 01.10.2018</p>
+<p>ПАТ «КиївЗНДІЕП»</p>
+<p>Зміна № 2 чинна з 01.07.2019</p>
 <p>ПАТ «КиївЗНДІЕП»</td>
 </tr>
 <tr>
@@ -802,6 +805,13 @@
 <p>ВАТ «УкрНДІінжпроект»</p>
 <p>Зміна № 3<br />
 чинна з 01.12.2016 р.</p>
+<p>ВАТ «УкрНДІінжпроект»</td>
+</tr>
+<tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/04/V2520-18_IB.pdf" target="_blank">ДБН В.2.5-20:2018</a></td>
+<td width="227">Газопостачання.</td>
+<td width="255">Чинні з 01.07.2019 р.</p>
+<p>На заміну ДБН В.2.5-20-2001</p>
 <p>ВАТ «УкрНДІінжпроект»</td>
 </tr>
 <tr>
