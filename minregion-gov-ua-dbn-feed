@@ -12,7 +12,7 @@
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
 	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Thu, 02 May 2019 14:31:42 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 May 2019 13:33:53 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -332,6 +332,13 @@
 <p>«НДІБВ»</td>
 </tr>
 <tr>
+<td width="175">ДБН В.1.2-4:2019</td>
+<td width="227">Інженерно-технічні заходи цивільного захисту (ДСК).</td>
+<td width="255">Чинні з 01.08.2019 р.</p>
+<p>На заміну ДБН В.1.2-4-2006</p>
+<p>УкрНДІЦЗ</td>
+</tr>
+<tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/39.1.-DBN-V.1.2-52007.-SNBB.-Naukovo-tehnichniy-suprovid.pdf" target="_blank">ДБН В.1.2-5-2007</a></td>
 <td width="227">Система забезпечення надійності та безпеки будівельних об&#8217;єктів. Науково-технічний супровід будівельних об&#8217;єктів.</td>
 <td width="255">Чинні з 01.01.2008 р.</p>
@@ -454,7 +461,8 @@
 <p><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/55.3.-DBN-V.2.2-5-97.-Zmina-N2.-Budinki-i-sporudi.-Zahis.pdf" target="_blank">Зміна № 2</a></p>
 <p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/05/ZM3_DBN_V225.pdf" target="_blank">Зміна № 3</a></p>
 <p>&nbsp;</p>
-<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/09/Popravka-do-Zmini-----3-DBN-v.2.2-5.jpg" target="_blank">Поправка до Зміни №3</a></td>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/09/Popravka-do-Zmini-----3-DBN-v.2.2-5.jpg" target="_blank">Поправка до Зміни №3</a></p>
+<p>Зміна № 4 (ДСК)</td>
 <td width="227">Захисні споруди цивільного захисту.</td>
 <td width="255">Чинні з 01.01.98 р.</p>
 <p>На заміну СНиП II-11-77*</p>
@@ -467,7 +475,10 @@
 <p>Зміна № 3</p>
 <p>чинна з 01.08.2018 р.</p>
 <p>УкрНДІЦЗ</p>
-<p>Інформаційний бюлетень № 8, 2018 р.</td>
+<p>Інформаційний бюлетень № 8, 2018 р.</p>
+<p>Зміна № 4 (ДСК)</p>
+<p>чинна з 01.08.2019 р.</p>
+<p>УкрНДІЦЗ</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/04/DBN-V.2.2-7-98.pdf" target="_blank">ДБН В.2.2-7-98</a></td>
@@ -595,11 +606,14 @@
 <p>ВАТ «КиївЗНДІЕП»</td>
 </tr>
 <tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/69.1.-DBN-V.2.2-232009.-Budinki-i-sporudi.-Pidpriyemstva.pdf" target="_blank">ДБН В.2.2-23-2009</a></td>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/69.1.-DBN-V.2.2-232009.-Budinki-i-sporudi.-Pidpriyemstva.pdf" target="_blank">ДБН В.2.2-23-2009</a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/05/ZM_DBN_V2223Pr.pdf" target="_blank">Зміна № 1</a></td>
 <td width="227">Підприємства торгівлі.</td>
 <td width="255">Чинні з 01.07.2009 р.</p>
 <p>Втрачає чинність ВСН 54-87</p>
-<p>ВАТ «КиївЗНДІЕП»</td>
+<p>ВАТ «КиївЗНДІЕП»</p>
+<p>Зміна № 1 чинна з 01.08.2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/70.1.-DBN-V.2.2-242009.-Budinki-i-sporudi.-Proektuvannya.pdf" target="_blank">ДБН В.2.2-24-2009</a></p>
@@ -897,7 +911,8 @@
 <td width="255">Чинні з 01.01.2014</p>
 <p>На заміну СНиП 2.04.03-85</p>
 <p>ДП «Український державний науково-дослідний і проектно-вишукувальний інститут «УкрНДІводоканалпроект»</p>
-<p>Зміна № 1 чинна з 01.02.2019</td>
+<p>Зміна № 1 чинна з 01.02.2019</p>
+<p>Поправка до Зміна №1, Інформаційний бюлетень № 4, 2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/102.1.-DBN-V.2.5-752013.-Kanalizatsiya.-Zovnishni-merezhi-ta.pdf" target="_blank">ДБН В.2.5-75:2013</a></p>
@@ -908,7 +923,8 @@
 <td width="255">Чинні з 01.01.2014</p>
 <p>На заміну СНиП 2.04.03-85</p>
 <p>ДП «Український державний науково-дослідний і проектно-вишукувальний інститут «УкрНДІводоканалпроект»</p>
-<p>Зміна № 1 чинна з 01.02.2019</td>
+<p>Зміна № 1 чинна з 01.02.2019</p>
+<p>Поправка до Зміна №1, Інформаційний бюлетень № 4, 2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/103.1.-DBN-V.2.5-762014.-Avtomatizovani-sistemi-rannogo.pdf" target="_blank">ДБН В.2.5-76:2014</a></td>
@@ -1127,10 +1143,17 @@
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/02/GBN-Dorozhniy-odyag-zhorstkiy.-Proektuvannya.pdf" target="_blank">ГБН В.2.3-37641918-557:2016</a></td>
-<td width="227">Автомобільні дороги. Дорожній одяг жорсткий. проектування</td>
+<td width="227">Автомобільні дороги. Дорожній одяг жорсткий. Проектування</td>
 <td width="255">Мінінфраструктури (ХНАДУ)</p>
 <p>Чинний від 01.04.2017</p>
 <p>На заміну ВБН В 2.3-218-008-97 у частині проектування</td>
+</tr>
+<tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/05/GBN-V.2.3-37641918-559-2019.pdf" target="_blank">ГБН В.2.3-37641918-559:2019</a></td>
+<td width="227">Автомобільні дороги. Дорожній одяг нежорсткий. Проектування</td>
+<td width="255">Мінінфраструктури                              (ДП «ДерждорНДІ»), (ХНАДУ), (НТУ)</p>
+<p>Чинний від 01.06.2019</p>
+<p>На заміну ВБН В.2.3-218-186-2004</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/01/GBN_V.2.5-00013741-72-2013_Kabelni_linii_naprugoyu_do_10000_V.pdf" target="_blank">ГБН В.2.5-00013741-72:2013</a></td>
