@@ -12,7 +12,7 @@
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
 	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Wed, 08 May 2019 13:33:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Jun 2019 07:26:59 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -663,11 +663,14 @@
 <p>ПАТ «КиївЗНДІЕП»</td>
 </tr>
 <tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2016/08/DBN-V.2.3-4_2015.pdf">ДБН В.2.3-4-2015</a></td>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2016/08/DBN-V.2.3-4_2015.pdf">ДБН В.2.3-4-2015</a></p>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/05/ZM_DBN_V234.pdf" target="_blank">Зміна № 1</a></td>
 <td width="227">Автомобільні дороги. Частина І. Проектування. Частина II. Будівництво.</td>
 <td width="255">Чинні з 01.04.2016 р.</p>
 <p>На заміну ДБН В.2.3-4-2007 та таблиці В.2 ДБН В.2.3-22:2009  &#171;Мости та труби. Основні вимоги проектування&#187;</p>
-<p>ДП &#171;ДерждорНДІ&#187;</td>
+<p>ДП «ДерждорНДІ»</p>
+<p>Зміна № 1 чинна з 01.09.2019</p>
+<p>ДП «ДерждорНДІ»</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2018/06/V235_InBul.pdf" target="_blank">ДБН В.2.3-5:2018</a></td>
@@ -692,6 +695,13 @@
 <p>ДП «Укрметротунельпроект»</p>
 <p>Зміна № 1 чинна з 01.09.2014</p>
 <p>ДП «Укрметротунельпроект»</td>
+</tr>
+<tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/05/V237_IB.pdf" target="_blank">ДБН В.2.3-7:2018</a></td>
+<td width="227">Метрополітени. Основні положення</td>
+<td width="255">Чинні з 01.09.2019 р.</p>
+<p>На заміну ДБН В.2.3-7-2010</p>
+<p>ДП «НДІБК»</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/78.1.-DBN-V.2.3-142006-CHastina-1.-Sporudi-transportu.pdf" target="_blank">ДБН В.2.3-14-2006</a></p>
