@@ -12,7 +12,7 @@
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
 	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Thu, 06 Jun 2019 07:27:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jun 2019 13:23:57 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -234,6 +234,14 @@
 <p>ДП «Діпромісто» імені Ю.М. Білоконя»</p>
 <p>Інформаційний бюлетень № 8, 2018 р.</p>
 <p>Дію наказу Мінрегіону від 23.04.2018 № 100 зупинено згідно з наказом Мінрегіону від 30.08.2018 № 228.</td>
+</tr>
+<tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/06/B2212-IB.pdf" target="_blank">ДБН Б.2.2-12:2019</a></td>
+<td width="227">Планування і забудова територій</td>
+<td width="255">Чинні з 01.10.2019</p>
+<p>На заміну ДБН Б.2.2-12:2018</p>
+<p>ДП «Діпромісто» імені</p>
+<p>Ю.М. Білоконя»</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/26.1.-DBN-B.2.4-1-94.-Planuvannya-i-zabudova-silskih-po.pdf" target="_blank">ДБН Б.2.4-1-94</a></td>
@@ -590,11 +598,13 @@
 <p>ВАТ «КиївЗНДІЕП»</td>
 </tr>
 <tr>
-<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/03/DBN-V.2.2-20-2008.pdf" target="_blank">ДБН В.2.2-20-2008</a></td>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/03/DBN-V.2.2-20-2008.pdf" target="_blank">ДБН В.2.2-20-2008</a></p>
+<p><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/06/ZM_DBN_V2220.pdf" target="_blank">Зміна № 1</a></td>
 <td width="227">Готелі.</td>
 <td width="255">Чинні з 01.04.2009 р.</p>
 <p>Введено вперше</p>
-<p>ВАТ «КиївЗНДІЕП»</td>
+<p>ВАТ «КиївЗНДІЕП»</p>
+<p>Зміна № 1 чинна з 01.10.2019</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2017/12/69.1.-DBN-V.2.2-232009.-Budinki-i-sporudi.-Pidpriyemstva.pdf" target="_blank">ДБН В.2.2-23-2009</a></p>
