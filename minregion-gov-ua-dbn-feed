@@ -11,17 +11,17 @@
 	<title>Мінрегіон &#187; Державні та галузеві будівельні норми</title>
 	<atom:link href="http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.minregion.gov.ua</link>
-	<description>Міністерство регіонального розвитку, будівництва та житлово-комунального господарства україни</description>
-	<lastBuildDate>Thu, 05 Sep 2019 08:21:00 +0000</lastBuildDate>
+	<description>Міністерство розвитку громад та територій України</description>
+	<lastBuildDate>Thu, 17 Oct 2019 07:33:11 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.3.19</generator>
+	<generator>https://wordpress.org/?v=4.3.21</generator>
 	<item>
 		<title>Державні та галузеві будівельні норми</title>
 		<link>http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/derzhavni-ta-galuzevi-budivelni-normi-2/</link>
 		<comments>http://www.minregion.gov.ua/napryamki-diyalnosti/building/tech-reg/normuvannia/derzhavni-ta-galuzevi-budivelni-normi/derzhavni-ta-galuzevi-budivelni-normi-2/#comments</comments>
-		<pubDate>Wed, 04 Sep 2019 14:33:11 +0000</pubDate>
+		<pubDate>Thu, 17 Oct 2019 07:33:11 +0000</pubDate>
 		<dc:creator><![CDATA[Артем Степанчук]]></dc:creator>
 				<category><![CDATA[Державні та галузеві будівельні норми]]></category>
 
@@ -669,6 +669,13 @@
 <td width="255">Чинні з 01.04.2019</p>
 <p>На заміну ДБН В.2.2-17:2006</p>
 <p>ПАТ «КиївЗНДІЕП»</td>
+</tr>
+<tr>
+<td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2019/10/V2241-2019.pdf" target="_blank">ДБН В.2.2-41:2019</a></td>
+<td width="227">Висотні будівлі. Основні положення</td>
+<td width="255">Чинні з 01.01.2020</p>
+<p>На заміну ДБН В.2.2-24:2009</p>
+<p>ДП «НДІБВ»</td>
 </tr>
 <tr>
 <td width="175"><a href="http://www.minregion.gov.ua/wp-content/uploads/2016/08/DBN-V.2.3-4_2015.pdf">ДБН В.2.3-4-2015</a></p>
